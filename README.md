@@ -1,4 +1,4 @@
-### ¡Hola, Bienvenid@!👋
+## ¡Hola, Bienvenid@!👋
 
 ![header](pres.jpg)
 
@@ -23,5 +23,4 @@ A lo largo de mi carrera, he tenido el privilegio de trabajar en proyectos de de
 
 - 📫 Cómo contactarme..
   - [LinkedIn](https://www.linkedin.com/in/melissa-ochoa17/)
-  - [Gmail](https://mail.google.com/mail/u/0/?pli=1#inbox)
 
