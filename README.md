@@ -2,9 +2,9 @@
 
 ![header](pres.jpg)
 
-Soy un estudiante de Ingeniería en Sistemas Computacionales con conocimientos en lenguajes como C# y SQL, así como experiencia práctica en el uso de herramientas como SQL Server, Visual Studio, Visual Studio Code y Android Studio. 
+Soy recien egresada de Ingeniería en Sistemas Computacionales con conocimientos en lenguajes como C# y SQL, así como experiencia práctica en el uso de herramientas como SQL Server, Visual Studio, Visual Studio Code y Android Studio. 
 
-A lo largo de mi carrera, he tenido el privilegio de trabajar en proyectos de desarrollo de software, así como el diseño y la implementación de base de datos.
+A lo largo de mi carrera, he tenido el privilegio de trabajar en proyectos de desarrollo de software, así como el diseño y la implementación de base de datos y desarrollo web.
 
 - 🌱 Actualmente estoy ampliando mis conocimientos, aprendiendo Python, Git, GitHub, CSS y HTML.
 
